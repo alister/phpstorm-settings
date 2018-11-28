@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="dd@userDefined" key=".dd" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="dump($EXPR$);echo __METHOD__,':',__LINE__;die;&#10;" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

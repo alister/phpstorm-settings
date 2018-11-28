@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
+    <ignoreAction name="PHP/Group use statements by selected prefix" />
+  </component>
+</application>

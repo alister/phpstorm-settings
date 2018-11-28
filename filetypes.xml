@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Fixtures" type="Twig" />
+      <mapping pattern="availability_banner" type="Twig" />
+      <mapping ext="test" type="Twig" />
+      <mapping pattern="*.yml.dist" type="YAML" />
+      <mapping pattern="*.yaml.dist" type="YAML" />
+      <mapping pattern=".phpstan.neon" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

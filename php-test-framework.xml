@@ -1,0 +1,31 @@
+<application>
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="Behat">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="61e9d2fe-da6b-4ab9-b55b-683934b3cb79" configuration_file_path="/home/alister/repo/ca.symfony/behat.yml.dist" executable_path="/home/alister/repo/ca.symfony/vendor/behat/behat/bin/behat" use_configuration_file="true" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="Behat">
+        <cache>
+          <versions>
+            <info id="interpreter-61e9d2fe-da6b-4ab9-b55b-683934b3cb79" version="3.4.3" />
+          </versions>
+        </cache>
+      </tool>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="interpreter-61e9d2fe-da6b-4ab9-b55b-683934b3cb79" version="7.1.5" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="File Watcher Messages" />
+    <notification groupId="Php Inspections (EA Extended)" displayType="NONE" />
+  </component>
+</application>
